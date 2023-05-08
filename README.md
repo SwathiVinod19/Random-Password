@@ -22,6 +22,11 @@ An image of the prompt that will pop up to take inputs from the user
 ![Random_Password_Example](https://user-images.githubusercontent.com/129353324/236716154-8cfb25f2-bf3a-4830-bbf3-203ee3408278.png)
 An example of a random password generated 
 
-#### Acknowledgement
+#### Link for the deployed page: 
+
+https://swathivinod19.github.io/Random-Password/
+
+
+##### Acknowledgement
 This activity was challenging for me. I spent hours on understanding basic javascript.. in addition to two tutoring sessions to come up with a solution (with their guidance and support). I would also like to thank my peer group for helping me along the way.
 
